@@ -1,3 +1,3 @@
 # deploying-page
 Live link: ** https://fshkokani.github.io/deploying-page/ **
-![](deploying-page/page.jpg)
+![](https://github.com/fshkokani/deploying-page/blob/main/page.jpg)
